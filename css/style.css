@@ -1,0 +1,30 @@
+.outer_box {
+    width: 110px;
+    height: 184px;
+    border: 0.5px solid black;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.1);
+    background: rgba(243, 243, 243) ;
+}
+.top_line {
+    width: 110px;
+    height: 10px;
+    border: 0.5px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+.calculator_text {
+    width: 1px;
+    height: 1px;
+    border: 0.5px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+.calc_img {
+    width: 4px;
+    height: 3px;
+}
+h1 {
+    font-size: 40px;
+}
