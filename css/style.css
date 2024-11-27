@@ -58,6 +58,14 @@ body {
     gap: 10px;
 }
 
+#display {
+    width: 325px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+}
+
 .fifth_line {
     width: 325px;
     height: 20px;
@@ -144,6 +152,8 @@ body {
     min-height: 26px;
     max-width: 40px;
     min-width: 40px;
+    border-radius: 50px;
+    background-color: #fcb811;
 }
 
 #button_field {
@@ -152,5 +162,6 @@ body {
     min-height: 50px;
     max-width: 75px;
     min-width: 75px;
+    border-radius: 50px;
  }
 
